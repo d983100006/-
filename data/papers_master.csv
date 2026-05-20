@@ -1,0 +1,1 @@
+record_id,source_db,source_record_id,title,authors,year,journal_or_venue,doi,url,abstract,keywords,doc_type,candidate_topic_fit,inclusion_status,exclusion_reason,raw_evidence,candidate_judgement,confidence,full_text_available,full_text_path,seed_flag,notes,created_at,updated_at
