@@ -1,0 +1,1 @@
+record_id,source_db,source_record_id,patent_number,application_number,title,assignee,inventors,priority_date,publication_date,jurisdiction,url,abstract,claims_excerpt,keywords,candidate_topic_fit,inclusion_status,exclusion_reason,raw_evidence,candidate_judgement,confidence,full_text_available,full_text_path,seed_flag,notes,created_at,updated_at
